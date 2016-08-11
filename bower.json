@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "neon-animation": "git+https://vshah12@bitbucket.org/litmusloopdocs/raw-cpp.git"
+    "raw-cpp": "git@bitbucket.org:litmusloopdocs/raw-cpp.git"
   }
 }
